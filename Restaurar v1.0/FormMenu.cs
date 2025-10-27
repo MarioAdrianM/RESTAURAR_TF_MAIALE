@@ -267,5 +267,10 @@ namespace Restaurar_v1._0
         {
             using (var f = new FrmRendicionValores()) f.ShowDialog(this);
         }
+
+        private void backupRestoreToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            using (var f = new FormBackup()) f.ShowDialog(this);
+        }
     }
 }

@@ -48,6 +48,8 @@
             this.cobranzaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aperturaDeCajaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.rendiciónDeValoresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.administrativaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.backupRestoreToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuPrincipal.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -89,7 +91,8 @@
             // 
             this.seguridadToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mnuRolesPermisos,
-            this.usuariosToolStripMenuItem});
+            this.usuariosToolStripMenuItem,
+            this.administrativaToolStripMenuItem});
             this.seguridadToolStripMenuItem.Name = "seguridadToolStripMenuItem";
             this.seguridadToolStripMenuItem.Size = new System.Drawing.Size(72, 20);
             this.seguridadToolStripMenuItem.Text = "Seguridad";
@@ -220,6 +223,21 @@
             this.rendiciónDeValoresToolStripMenuItem.Text = "Rendición de valores";
             this.rendiciónDeValoresToolStripMenuItem.Click += new System.EventHandler(this.rendiciónDeValoresToolStripMenuItem_Click);
             // 
+            // administrativaToolStripMenuItem
+            // 
+            this.administrativaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.backupRestoreToolStripMenuItem});
+            this.administrativaToolStripMenuItem.Name = "administrativaToolStripMenuItem";
+            this.administrativaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.administrativaToolStripMenuItem.Text = "Administrativa";
+            // 
+            // backupRestoreToolStripMenuItem
+            // 
+            this.backupRestoreToolStripMenuItem.Name = "backupRestoreToolStripMenuItem";
+            this.backupRestoreToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.backupRestoreToolStripMenuItem.Text = "Backup/Restore";
+            this.backupRestoreToolStripMenuItem.Click += new System.EventHandler(this.backupRestoreToolStripMenuItem_Click);
+            // 
             // FormMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -263,5 +281,7 @@
         private System.Windows.Forms.ToolStripMenuItem cobranzaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem aperturaDeCajaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem rendiciónDeValoresToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem administrativaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem backupRestoreToolStripMenuItem;
     }
 }

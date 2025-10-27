@@ -191,14 +191,6 @@
       <Id_Usuario>2</Id_Usuario>
       <Id_Permiso>13</Id_Permiso>
     </usuario_permiso>
-    <usuario_permiso>
-      <Id_Usuario>1</Id_Usuario>
-      <Id_Permiso>21</Id_Permiso>
-    </usuario_permiso>
-    <usuario_permiso>
-      <Id_Usuario>1</Id_Usuario>
-      <Id_Permiso>22</Id_Permiso>
-    </usuario_permiso>
   </Usuario_Permisos>
   <Rol_Rol />
   <Rol_Permisos>
@@ -349,19 +341,7 @@
       <Activo>true</Activo>
     </sector>
   </Sectores>
-  <Reservas>
-    <reserva Id="1">
-      <Fecha>2025-10-27</Fecha>
-      <Hora>18:00</Hora>
-      <Comensales>3</Comensales>
-      <MesaId>1</MesaId>
-      <Estado>Pendiente</Estado>
-      <Observaciones></Observaciones>
-      <ClienteNombreCompleto>123</ClienteNombreCompleto>
-      <ClienteTelefono>456</ClienteTelefono>
-      <ClienteEmail></ClienteEmail>
-    </reserva>
-  </Reservas>
+  <Reservas />
   <Pagos />
   <Facturas />
 </Root>
