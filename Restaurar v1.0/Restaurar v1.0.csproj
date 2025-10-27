@@ -71,6 +71,12 @@
     <Compile Include="FormMenu.Designer.cs">
       <DependentUpon>FormMenu.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormPlanoMesas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPlanoMesas.Designer.cs">
+      <DependentUpon>FormPlanoMesas.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormRolesPermisos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -157,6 +163,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormMenu.resx">
       <DependentUpon>FormMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPlanoMesas.resx">
+      <DependentUpon>FormPlanoMesas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormRolesPermisos.resx">
       <DependentUpon>FormRolesPermisos.cs</DependentUpon>

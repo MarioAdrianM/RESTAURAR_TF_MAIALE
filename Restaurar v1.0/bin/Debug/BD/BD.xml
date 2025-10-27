@@ -95,6 +95,9 @@
     <permiso Id="22">
       <Nombre>Seguridad/Administrativa/Backup/Restore</Nombre>
     </permiso>
+    <permiso Id="23">
+      <Nombre>Salon/Plano de Mesas</Nombre>
+    </permiso>
   </Permisos>
   <Usuario_Roles>
     <usuario_rol>
@@ -312,6 +315,18 @@
       <Accion>APERTURA_CAJA_OK</Accion>
       <Detalle>Nombre:Caja2 27/10/25 Noche Fondo:0,00 Umbral:50,00</Detalle>
     </evento>
+    <evento Id="3">
+      <Fecha>2025-10-27T15:39:01</Fecha>
+      <Usuario>admin</Usuario>
+      <Accion>FACTURA_EMITIDA</Accion>
+      <Detalle>B-0001-00000001 Mesa:1 Total:1,00</Detalle>
+    </evento>
+    <evento Id="4">
+      <Fecha>2025-10-27T15:39:20</Fecha>
+      <Usuario>admin</Usuario>
+      <Accion>PAGO_REGISTRADO</Accion>
+      <Detalle>Efectivo Fact:B-0001-00000001 Importe:1,00 Vuelto:0,00</Detalle>
+    </evento>
   </Bitacora>
   <Cajas>
     <caja Id="1">
@@ -338,7 +353,15 @@
       <Numero>1</Numero>
       <Capacidad>8</Capacidad>
       <Sector>Salon</Sector>
-      <Estado>Ocupada</Estado>
+      <Estado>Libre</Estado>
+      <Habilitada>true</Habilitada>
+      <Observaciones></Observaciones>
+    </mesa>
+    <mesa Id="2">
+      <Numero>2</Numero>
+      <Capacidad>8</Capacidad>
+      <Sector>pelotero</Sector>
+      <Estado>Libre</Estado>
       <Habilitada>true</Habilitada>
       <Observaciones></Observaciones>
     </mesa>
@@ -348,6 +371,10 @@
       <Nombre>Salon</Nombre>
       <Activo>true</Activo>
     </sector>
+    <sector Id="2">
+      <Nombre>pelotero</Nombre>
+      <Activo>true</Activo>
+    </sector>
   </Sectores>
   <Reservas>
     <reserva Id="1">
@@ -355,13 +382,35 @@
       <Hora>18:00</Hora>
       <Comensales>3</Comensales>
       <MesaId>1</MesaId>
-      <Estado>Pendiente</Estado>
+      <Estado>Cancelada</Estado>
       <Observaciones></Observaciones>
       <ClienteNombreCompleto>123</ClienteNombreCompleto>
       <ClienteTelefono>456</ClienteTelefono>
       <ClienteEmail></ClienteEmail>
     </reserva>
   </Reservas>
-  <Pagos />
-  <Facturas />
+  <Pagos>
+    <pago Id="1">
+      <Fecha>2025-10-27T15:39:20</Fecha>
+      <FacturaId>1</FacturaId>
+      <MesaId>1</MesaId>
+      <Medio>Efectivo</Medio>
+      <Monto>1</Monto>
+      <Autorizacion></Autorizacion>
+      <Vuelto>0</Vuelto>
+      <Estado>EnCustodiaMozo</Estado>
+      <Cobrador>admin</Cobrador>
+    </pago>
+  </Pagos>
+  <Facturas>
+    <factura Id="1">
+      <Fecha>2025-10-27T15:39:00</Fecha>
+      <MesaId>1</MesaId>
+      <PuntoVenta>1</PuntoVenta>
+      <TipoCbte>B</TipoCbte>
+      <Numero>1</Numero>
+      <ImporteTotal>1</ImporteTotal>
+      <Estado>Cobrada</Estado>
+    </factura>
+  </Facturas>
 </Root>

@@ -34,6 +34,8 @@
             this.seguridadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mnuRolesPermisos = new System.Windows.Forms.ToolStripMenuItem();
             this.usuariosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.administrativaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.backupRestoreToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.reportesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.bitacoraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.archivoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -48,8 +50,7 @@
             this.cobranzaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aperturaDeCajaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.rendiciónDeValoresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.administrativaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.backupRestoreToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.planoDeMesasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuPrincipal.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -75,7 +76,8 @@
             // salonToolStripMenuItem
             // 
             this.salonToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.aBMDeMesasToolStripMenuItem});
+            this.aBMDeMesasToolStripMenuItem,
+            this.planoDeMesasToolStripMenuItem});
             this.salonToolStripMenuItem.Name = "salonToolStripMenuItem";
             this.salonToolStripMenuItem.Size = new System.Drawing.Size(48, 20);
             this.salonToolStripMenuItem.Text = "Salon";
@@ -83,7 +85,7 @@
             // aBMDeMesasToolStripMenuItem
             // 
             this.aBMDeMesasToolStripMenuItem.Name = "aBMDeMesasToolStripMenuItem";
-            this.aBMDeMesasToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.aBMDeMesasToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.aBMDeMesasToolStripMenuItem.Text = "ABM de Mesas";
             this.aBMDeMesasToolStripMenuItem.Click += new System.EventHandler(this.aBMDeMesasToolStripMenuItem_Click);
             // 
@@ -100,17 +102,32 @@
             // mnuRolesPermisos
             // 
             this.mnuRolesPermisos.Name = "mnuRolesPermisos";
-            this.mnuRolesPermisos.Size = new System.Drawing.Size(180, 22);
+            this.mnuRolesPermisos.Size = new System.Drawing.Size(162, 22);
             this.mnuRolesPermisos.Text = "Roles y Permisos";
             this.mnuRolesPermisos.Click += new System.EventHandler(this.mnuRolesPermisos_Click);
             // 
             // usuariosToolStripMenuItem
             // 
             this.usuariosToolStripMenuItem.Name = "usuariosToolStripMenuItem";
-            this.usuariosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.usuariosToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
             this.usuariosToolStripMenuItem.Tag = "";
             this.usuariosToolStripMenuItem.Text = "Usuarios";
             this.usuariosToolStripMenuItem.Click += new System.EventHandler(this.usuariosToolStripMenuItem_Click);
+            // 
+            // administrativaToolStripMenuItem
+            // 
+            this.administrativaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.backupRestoreToolStripMenuItem});
+            this.administrativaToolStripMenuItem.Name = "administrativaToolStripMenuItem";
+            this.administrativaToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
+            this.administrativaToolStripMenuItem.Text = "Administrativa";
+            // 
+            // backupRestoreToolStripMenuItem
+            // 
+            this.backupRestoreToolStripMenuItem.Name = "backupRestoreToolStripMenuItem";
+            this.backupRestoreToolStripMenuItem.Size = new System.Drawing.Size(157, 22);
+            this.backupRestoreToolStripMenuItem.Text = "Backup/Restore";
+            this.backupRestoreToolStripMenuItem.Click += new System.EventHandler(this.backupRestoreToolStripMenuItem_Click);
             // 
             // reportesToolStripMenuItem
             // 
@@ -223,20 +240,12 @@
             this.rendiciónDeValoresToolStripMenuItem.Text = "Rendición de valores";
             this.rendiciónDeValoresToolStripMenuItem.Click += new System.EventHandler(this.rendiciónDeValoresToolStripMenuItem_Click);
             // 
-            // administrativaToolStripMenuItem
+            // planoDeMesasToolStripMenuItem
             // 
-            this.administrativaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.backupRestoreToolStripMenuItem});
-            this.administrativaToolStripMenuItem.Name = "administrativaToolStripMenuItem";
-            this.administrativaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.administrativaToolStripMenuItem.Text = "Administrativa";
-            // 
-            // backupRestoreToolStripMenuItem
-            // 
-            this.backupRestoreToolStripMenuItem.Name = "backupRestoreToolStripMenuItem";
-            this.backupRestoreToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.backupRestoreToolStripMenuItem.Text = "Backup/Restore";
-            this.backupRestoreToolStripMenuItem.Click += new System.EventHandler(this.backupRestoreToolStripMenuItem_Click);
+            this.planoDeMesasToolStripMenuItem.Name = "planoDeMesasToolStripMenuItem";
+            this.planoDeMesasToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.planoDeMesasToolStripMenuItem.Text = "Plano de Mesas";
+            this.planoDeMesasToolStripMenuItem.Click += new System.EventHandler(this.planoDeMesasToolStripMenuItem_Click);
             // 
             // FormMenu
             // 
@@ -283,5 +292,6 @@
         private System.Windows.Forms.ToolStripMenuItem rendiciónDeValoresToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem administrativaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem backupRestoreToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem planoDeMesasToolStripMenuItem;
     }
 }

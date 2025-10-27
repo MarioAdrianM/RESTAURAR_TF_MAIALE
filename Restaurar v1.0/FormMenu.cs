@@ -272,5 +272,11 @@ namespace Restaurar_v1._0
         {
             using (var f = new FormBackup()) f.ShowDialog(this);
         }
+
+        private void planoDeMesasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            using (var f = new FormPlanoMesas()) f.ShowDialog(this);
+
+        }
     }
 }

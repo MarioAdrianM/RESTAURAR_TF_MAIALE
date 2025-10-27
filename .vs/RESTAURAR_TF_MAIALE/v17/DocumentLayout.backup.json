@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|c:\\users\\slash\\desktop\\trabajo final\\mi_trabajo_final\\restaurar_tf_maiale\\restaurar_tf_maiale\\restaurar v1.0\\formmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|solutionrelative:restaurar v1.0\\formmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|c:\\users\\slash\\desktop\\trabajo final\\mi_trabajo_final\\restaurar_tf_maiale\\restaurar_tf_maiale\\restaurar v1.0\\formplanomesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|solutionrelative:restaurar v1.0\\formplanomesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\restaurar v1.0\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|c:\\users\\slash\\desktop\\trabajo final\\mi_trabajo_final\\restaurar_tf_maiale\\restaurar_tf_maiale\\restaurar v1.0\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|solutionrelative:restaurar v1.0\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|c:\\users\\slash\\desktop\\trabajo final\\mi_trabajo_final\\restaurar_tf_maiale\\restaurar_tf_maiale\\restaurar v1.0\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|solutionrelative:restaurar v1.0\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|c:\\users\\slash\\desktop\\trabajo final\\mi_trabajo_final\\restaurar_tf_maiale\\restaurar_tf_maiale\\restaurar v1.0\\formplanomesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|solutionrelative:restaurar v1.0\\formplanomesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +26,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormMenu.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormMenu.Designer.cs",
-              "RelativeDocumentMoniker": "Restaurar v1.0\\FormMenu.Designer.cs",
-              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormMenu.Designer.cs",
-              "RelativeToolTip": "Restaurar v1.0\\FormMenu.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FormMenu.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormMenu.cs",
+              "RelativeDocumentMoniker": "Restaurar v1.0\\FormMenu.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormMenu.cs",
+              "RelativeToolTip": "Restaurar v1.0\\FormMenu.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAgwBUBAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T17:42:37.168Z",
+              "WhenOpened": "2025-10-27T18:30:42.858Z",
               "EditorCaption": ""
             },
             {
@@ -42,7 +50,33 @@
               "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormMenu.cs [Dise\u00F1o]",
               "RelativeToolTip": "Restaurar v1.0\\FormMenu.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T17:42:29.465Z"
+              "WhenOpened": "2025-10-27T18:30:24.108Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPlanoMesas.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormPlanoMesas.cs",
+              "RelativeDocumentMoniker": "Restaurar v1.0\\FormPlanoMesas.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormPlanoMesas.cs",
+              "RelativeToolTip": "Restaurar v1.0\\FormPlanoMesas.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwGUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:27:15.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormPlanoMesas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormPlanoMesas.cs",
+              "RelativeDocumentMoniker": "Restaurar v1.0\\FormPlanoMesas.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormPlanoMesas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Restaurar v1.0\\FormPlanoMesas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:24:34.914Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
