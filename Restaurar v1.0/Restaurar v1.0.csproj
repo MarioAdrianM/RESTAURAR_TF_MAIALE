@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{900EAFD6-BBFC-4ACF-A286-875C3C996D58}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Restaurar_v1._0</RootNamespace>
+    <AssemblyName>Restaurar v1.0</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bootstrap.cs" />
+    <Compile Include="FormBitacora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBitacora.Designer.cs">
+      <DependentUpon>FormBitacora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenu.Designer.cs">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRolesPermisos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRolesPermisos.Designer.cs">
+      <DependentUpon>FormRolesPermisos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUsuarios.Designer.cs">
+      <DependentUpon>FormUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAperturaCaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAperturaCaja.Designer.cs">
+      <DependentUpon>FrmAperturaCaja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCambiarPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCambiarPassword.Designer.cs">
+      <DependentUpon>frmCambiarPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCliente.Designer.cs">
+      <DependentUpon>FrmCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCobroMesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCobroMesa.Designer.cs">
+      <DependentUpon>FrmCobroMesa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFactura.Designer.cs">
+      <DependentUpon>FrmFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMesasABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMesasABM.Designer.cs">
+      <DependentUpon>FrmMesasABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRendicionValores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRendicionValores.Designer.cs">
+      <DependentUpon>FrmRendicionValores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReservas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReservas.Designer.cs">
+      <DependentUpon>FrmReservas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSectoresABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSectoresABM.Designer.cs">
+      <DependentUpon>FrmSectoresABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSeleccionMesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSeleccionMesa.Designer.cs">
+      <DependentUpon>FrmSeleccionMesa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SeguridadUI.cs" />
+    <EmbeddedResource Include="FormBitacora.resx">
+      <DependentUpon>FormBitacora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenu.resx">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRolesPermisos.resx">
+      <DependentUpon>FormRolesPermisos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUsuarios.resx">
+      <DependentUpon>FormUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAperturaCaja.resx">
+      <DependentUpon>FrmAperturaCaja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCambiarPassword.resx">
+      <DependentUpon>frmCambiarPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCliente.resx">
+      <DependentUpon>FrmCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCobroMesa.resx">
+      <DependentUpon>FrmCobroMesa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFactura.resx">
+      <DependentUpon>FrmFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMesasABM.resx">
+      <DependentUpon>FrmMesasABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRendicionValores.resx">
+      <DependentUpon>FrmRendicionValores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReservas.resx">
+      <DependentUpon>FrmReservas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSectoresABM.resx">
+      <DependentUpon>FrmSectoresABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSeleccionMesa.resx">
+      <DependentUpon>FrmSeleccionMesa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Abstraccion\Abstraccion.csproj">
+      <Project>{6496049f-9c5f-4f0f-8b93-75dd26bb2ca8}</Project>
+      <Name>Abstraccion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Backup\Backup.csproj">
+      <Project>{73d0e23d-e403-466d-a2cd-06f3832ba6a4}</Project>
+      <Name>Backup</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BE\BE.csproj">
+      <Project>{bf7c86f5-f068-4150-993b-ed053baaf9a4}</Project>
+      <Name>BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BLL_Negocio\BLL_Negocio.csproj">
+      <Project>{dbd28653-e60c-4625-a366-95ac64fb6361}</Project>
+      <Name>BLL_Negocio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MPP\MPP.csproj">
+      <Project>{a835851b-e452-4133-b6db-1996ff94047b}</Project>
+      <Name>MPP</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reportes\Reportes.csproj">
+      <Project>{86db9c30-91e1-4140-a2ec-3623836c1443}</Project>
+      <Name>Reportes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Seguridad\Seguridad.csproj">
+      <Project>{f7f65df8-8d26-417e-8727-aeb03d676ef0}</Project>
+      <Name>Seguridad</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
