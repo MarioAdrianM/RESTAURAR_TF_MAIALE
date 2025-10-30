@@ -45,10 +45,14 @@
     <Compile Include="BLLBitacora.cs" />
     <Compile Include="BLLCaja.cs" />
     <Compile Include="BLLCobranza.cs" />
+    <Compile Include="BLLComanda.cs" />
     <Compile Include="BLLComposite\BLLPermiso.cs" />
     <Compile Include="BLLComposite\BLLRol.cs" />
     <Compile Include="BLLFactura.cs" />
+    <Compile Include="BLLFamilia.cs" />
     <Compile Include="BLLMesa.cs" />
+    <Compile Include="BLLProducto.cs" />
+    <Compile Include="BLLProveedor.cs" />
     <Compile Include="BLLReserva.cs" />
     <Compile Include="BLLSector.cs" />
     <Compile Include="BLLUsuario.cs" />

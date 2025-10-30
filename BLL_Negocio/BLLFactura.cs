@@ -38,6 +38,26 @@ namespace BLL_Negocio
 
             return fac;
         }
+        // Caja: emite factura a partir de una comanda cerrada con solicitud
+        public BEFactura EmitirDesdeComanda(long comandaId, int puntoVenta = 1, string tipoCbte = "B")
+        {
+            var bllCom = new BLL_Negocio.BLLComanda();
+            var c = bllCom.ListarObjeto(new BE.BEComanda { Id = comandaId });
+            if (c == null) throw new InvalidOperationException("Comanda no encontrada.");
+            if (c.Estado == BE.EstadosComanda.Facturada) throw new InvalidOperationException("La comanda ya fue facturada.");
+            if (c.Estado != BE.EstadosComanda.Cerrada || !c.FacturaSolicitada)
+                throw new InvalidOperationException("La comanda debe estar CERRADA y con factura solicitada.");
+
+            if (c.Total <= 0) throw new InvalidOperationException("Total inválido.");
+
+            // usa tu método actual Emitir(...)
+            var fac = Emitir(c.MesaId, c.Total, puntoVenta, tipoCbte);
+
+            // marca la comanda como facturada
+            bllCom.MarcarFacturada(c.Id);
+
+            return fac;
+        }
 
         public bool Anular(BEFactura f, string motivo = null)
         {

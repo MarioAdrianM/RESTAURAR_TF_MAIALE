@@ -70,6 +70,28 @@ namespace BLL_Negocio
             // Marcamos la factura como COBRADA
             f.Estado = "Cobrada";
             mppFactura.Guardar(f);
+            // ==== Liberar mesa al cobrar la factura ====
+            try
+            {
+                // Busco la factura recién cobrada para conocer la MesaId
+                var bllFac = new BLLFactura();
+                var fac = bllFac.ObtenerPorId(facturaId);
+                if (fac != null && fac.MesaId > 0)
+                {
+                    var bllMesa = new BLLMesa();
+                    var mesa = bllMesa.ListarObjeto(new BEMesa { Id = fac.MesaId });
+                    if (mesa != null)
+                    {
+                        mesa.Estado = EstadosMesa.Libre;   // ← liberar la mesa
+                        bllMesa.Guardar(mesa);
+                    }
+                }
+            }
+            catch
+            {
+                // no romper el flujo de cobro si falla la liberación
+            }
+
 
             var usr = Sesion.UsuarioActual?.Usuario ?? "SYSTEM";
             bit.Registrar(usr, "PAGO_REGISTRADO", $"{medio} Fact:{f} Importe:{importe:n2} Vuelto:{vuelto:n2}");

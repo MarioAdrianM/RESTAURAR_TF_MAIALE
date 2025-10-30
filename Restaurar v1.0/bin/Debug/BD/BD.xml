@@ -3,29 +3,17 @@
   <Usuarios>
     <usuario Id="1">
       <Usuario>admin</Usuario>
-      <Password>MQA=</Password>
+      <Password>MgA=</Password>
       <Activo>True</Activo>
       <Bloqueado>False</Bloqueado>
       <DebeCambiarPassword>False</DebeCambiarPassword>
       <Nombre></Nombre>
       <Apellido></Apellido>
     </usuario>
-    <usuario Id="2">
-      <Usuario>recepcionista</Usuario>
-      <Password>MgA=</Password>
-      <Activo>True</Activo>
-      <Bloqueado>False</Bloqueado>
-      <DebeCambiarPassword>False</DebeCambiarPassword>
-      <Nombre>asd</Nombre>
-      <Apellido>asd</Apellido>
-    </usuario>
   </Usuarios>
   <Roles>
     <rol Id="1">
       <Nombre>ADMIN</Nombre>
-    </rol>
-    <rol Id="2">
-      <Nombre>recepcion</Nombre>
     </rol>
   </Roles>
   <Permisos>
@@ -39,74 +27,70 @@
       <Nombre>Salon/ABM de Mesas</Nombre>
     </permiso>
     <permiso Id="4">
-      <Nombre>Seguridad</Nombre>
+      <Nombre>Salon/Plano de Mesas</Nombre>
     </permiso>
     <permiso Id="5">
-      <Nombre>Seguridad/Roles y Permisos</Nombre>
+      <Nombre>Seguridad</Nombre>
     </permiso>
     <permiso Id="6">
-      <Nombre>Seguridad/Usuarios</Nombre>
+      <Nombre>Seguridad/Roles y Permisos</Nombre>
     </permiso>
     <permiso Id="7">
-      <Nombre>Reportes</Nombre>
+      <Nombre>Seguridad/Usuarios</Nombre>
     </permiso>
     <permiso Id="8">
-      <Nombre>Reportes/Bitácora</Nombre>
-    </permiso>
-    <permiso Id="9">
-      <Nombre>Archivo</Nombre>
-    </permiso>
-    <permiso Id="10">
-      <Nombre>Archivo/Cerrar Sesion</Nombre>
-    </permiso>
-    <permiso Id="11">
-      <Nombre>Archivo/Salir</Nombre>
-    </permiso>
-    <permiso Id="12">
-      <Nombre>Reservas</Nombre>
-    </permiso>
-    <permiso Id="13">
-      <Nombre>ABM de Sectores</Nombre>
-    </permiso>
-    <permiso Id="14">
-      <Nombre>Mi Perfil</Nombre>
-    </permiso>
-    <permiso Id="15">
-      <Nombre>Mi Perfil/Cambiar contraseña</Nombre>
-    </permiso>
-    <permiso Id="16">
-      <Nombre>Ventas</Nombre>
-    </permiso>
-    <permiso Id="17">
-      <Nombre>Ventas/Facturación</Nombre>
-    </permiso>
-    <permiso Id="18">
-      <Nombre>Ventas/Cobranza</Nombre>
-    </permiso>
-    <permiso Id="19">
-      <Nombre>Apertura de caja</Nombre>
-    </permiso>
-    <permiso Id="20">
-      <Nombre>Rendición de valores</Nombre>
-    </permiso>
-    <permiso Id="21">
       <Nombre>Seguridad/Administrativa</Nombre>
     </permiso>
-    <permiso Id="22">
+    <permiso Id="9">
       <Nombre>Seguridad/Administrativa/Backup/Restore</Nombre>
     </permiso>
+    <permiso Id="10">
+      <Nombre>Reportes</Nombre>
+    </permiso>
+    <permiso Id="11">
+      <Nombre>Reportes/Bitácora</Nombre>
+    </permiso>
+    <permiso Id="12">
+      <Nombre>Archivo</Nombre>
+    </permiso>
+    <permiso Id="13">
+      <Nombre>Archivo/Cerrar Sesion</Nombre>
+    </permiso>
+    <permiso Id="14">
+      <Nombre>Archivo/Salir</Nombre>
+    </permiso>
+    <permiso Id="15">
+      <Nombre>Reservas</Nombre>
+    </permiso>
+    <permiso Id="16">
+      <Nombre>ABM de Sectores</Nombre>
+    </permiso>
+    <permiso Id="17">
+      <Nombre>Mi Perfil</Nombre>
+    </permiso>
+    <permiso Id="18">
+      <Nombre>Mi Perfil/Cambiar contraseña</Nombre>
+    </permiso>
+    <permiso Id="19">
+      <Nombre>Ventas</Nombre>
+    </permiso>
+    <permiso Id="20">
+      <Nombre>Ventas/Facturación</Nombre>
+    </permiso>
+    <permiso Id="21">
+      <Nombre>Ventas/Cobranza</Nombre>
+    </permiso>
+    <permiso Id="22">
+      <Nombre>Apertura de caja</Nombre>
+    </permiso>
     <permiso Id="23">
-      <Nombre>Salon/Plano de Mesas</Nombre>
+      <Nombre>Rendición de valores</Nombre>
     </permiso>
   </Permisos>
   <Usuario_Roles>
     <usuario_rol>
       <Id_Usuario>1</Id_Usuario>
       <Id_Rol>1</Id_Rol>
-    </usuario_rol>
-    <usuario_rol>
-      <Id_Usuario>2</Id_Usuario>
-      <Id_Rol>2</Id_Rol>
     </usuario_rol>
   </Usuario_Roles>
   <Usuario_Permisos>
@@ -191,167 +175,50 @@
       <Id_Permiso>20</Id_Permiso>
     </usuario_permiso>
     <usuario_permiso>
-      <Id_Usuario>2</Id_Usuario>
-      <Id_Permiso>13</Id_Permiso>
-    </usuario_permiso>
-    <usuario_permiso>
       <Id_Usuario>1</Id_Usuario>
       <Id_Permiso>21</Id_Permiso>
     </usuario_permiso>
     <usuario_permiso>
       <Id_Usuario>1</Id_Usuario>
       <Id_Permiso>22</Id_Permiso>
+    </usuario_permiso>
+    <usuario_permiso>
+      <Id_Usuario>1</Id_Usuario>
+      <Id_Permiso>23</Id_Permiso>
     </usuario_permiso>
   </Usuario_Permisos>
   <Rol_Rol />
-  <Rol_Permisos>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>1</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>2</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>3</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>4</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>5</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>6</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>7</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>8</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>9</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>10</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>11</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>12</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>13</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>14</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>15</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>16</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>17</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>18</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>19</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>20</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>2</Id_Rol>
-      <Id_Permiso>3</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>2</Id_Rol>
-      <Id_Permiso>12</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>21</Id_Permiso>
-    </rol_permiso>
-    <rol_permiso>
-      <Id_Rol>1</Id_Rol>
-      <Id_Permiso>22</Id_Permiso>
-    </rol_permiso>
-  </Rol_Permisos>
+  <Rol_Permisos />
   <Bitacora>
     <evento Id="1">
-      <Fecha>2025-10-26T23:57:56</Fecha>
-      <Usuario>admin</Usuario>
-      <Accion>APERTURA_CAJA_OK</Accion>
-      <Detalle>Nombre:Caja1 26/10/25 Noche Fondo:0,00 Umbral:50,00</Detalle>
-    </evento>
-    <evento Id="2">
-      <Fecha>2025-10-27T12:53:22</Fecha>
-      <Usuario>admin</Usuario>
-      <Accion>APERTURA_CAJA_OK</Accion>
-      <Detalle>Nombre:Caja2 27/10/25 Noche Fondo:0,00 Umbral:50,00</Detalle>
-    </evento>
-    <evento Id="3">
-      <Fecha>2025-10-27T15:39:01</Fecha>
+      <Fecha>2025-10-27T23:44:47</Fecha>
       <Usuario>admin</Usuario>
       <Accion>FACTURA_EMITIDA</Accion>
-      <Detalle>B-0001-00000001 Mesa:1 Total:1,00</Detalle>
+      <Detalle>B-0001-00000001 Mesa:1 Total:999.999.999,00</Detalle>
     </evento>
-    <evento Id="4">
-      <Fecha>2025-10-27T15:39:20</Fecha>
+    <evento Id="2">
+      <Fecha>2025-10-27T23:44:49</Fecha>
+      <Usuario>admin</Usuario>
+      <Accion>FACTURA_EMITIDA</Accion>
+      <Detalle>B-0001-00000002 Mesa:1 Total:999.999.999,00</Detalle>
+    </evento>
+    <evento Id="3">
+      <Fecha>2025-10-27T23:45:53</Fecha>
       <Usuario>admin</Usuario>
       <Accion>PAGO_REGISTRADO</Accion>
-      <Detalle>Efectivo Fact:B-0001-00000001 Importe:1,00 Vuelto:0,00</Detalle>
+      <Detalle>Efectivo Fact:B-0001-00000002 Importe:999.999.999,00 Vuelto:0,00</Detalle>
+    </evento>
+    <evento Id="4">
+      <Fecha>2025-10-27T23:45:55</Fecha>
+      <Usuario>admin</Usuario>
+      <Accion>PAGO_REGISTRADO</Accion>
+      <Detalle>Efectivo Fact:B-0001-00000001 Importe:999.999.999,00 Vuelto:0,00</Detalle>
     </evento>
   </Bitacora>
-  <Cajas>
-    <caja Id="1">
-      <FechaApertura>2025-10-26T23:57:56</FechaApertura>
-      <Punto>Caja1</Punto>
-      <Turno>Noche</Turno>
-      <Responsable>admin</Responsable>
-      <FondoInicial>0</FondoInicial>
-      <UmbralDiferencia>50</UmbralDiferencia>
-      <Abierta>true</Abierta>
-    </caja>
-    <caja Id="2">
-      <FechaApertura>2025-10-27T12:53:22</FechaApertura>
-      <Punto>Caja2</Punto>
-      <Turno>Noche</Turno>
-      <Responsable>admin</Responsable>
-      <FondoInicial>0</FondoInicial>
-      <UmbralDiferencia>50</UmbralDiferencia>
-      <Abierta>true</Abierta>
-    </caja>
-  </Cajas>
   <Mesas>
     <mesa Id="1">
       <Numero>1</Numero>
-      <Capacidad>8</Capacidad>
+      <Capacidad>4</Capacidad>
       <Sector>Salon</Sector>
       <Estado>Libre</Estado>
       <Habilitada>true</Habilitada>
@@ -359,8 +226,16 @@
     </mesa>
     <mesa Id="2">
       <Numero>2</Numero>
-      <Capacidad>8</Capacidad>
-      <Sector>pelotero</Sector>
+      <Capacidad>4</Capacidad>
+      <Sector>Pelotero</Sector>
+      <Estado>Libre</Estado>
+      <Habilitada>true</Habilitada>
+      <Observaciones></Observaciones>
+    </mesa>
+    <mesa Id="3">
+      <Numero>3</Numero>
+      <Capacidad>4</Capacidad>
+      <Sector>Salon</Sector>
       <Estado>Libre</Estado>
       <Habilitada>true</Habilitada>
       <Observaciones></Observaciones>
@@ -372,45 +247,87 @@
       <Activo>true</Activo>
     </sector>
     <sector Id="2">
-      <Nombre>pelotero</Nombre>
+      <Nombre>Pelotero</Nombre>
       <Activo>true</Activo>
     </sector>
   </Sectores>
   <Reservas>
     <reserva Id="1">
-      <Fecha>2025-10-27</Fecha>
-      <Hora>18:00</Hora>
-      <Comensales>3</Comensales>
+      <Fecha>2025-10-28</Fecha>
+      <Hora>23:00</Hora>
+      <Comensales>4</Comensales>
       <MesaId>1</MesaId>
-      <Estado>Cancelada</Estado>
+      <Estado>Pendiente</Estado>
       <Observaciones></Observaciones>
       <ClienteNombreCompleto>123</ClienteNombreCompleto>
-      <ClienteTelefono>456</ClienteTelefono>
+      <ClienteTelefono>123</ClienteTelefono>
       <ClienteEmail></ClienteEmail>
     </reserva>
   </Reservas>
+  <Facturas>
+    <factura Id="1">
+      <Fecha>2025-10-27T23:44:47</Fecha>
+      <MesaId>1</MesaId>
+      <PuntoVenta>1</PuntoVenta>
+      <TipoCbte>B</TipoCbte>
+      <Numero>1</Numero>
+      <ImporteTotal>999999999</ImporteTotal>
+      <Estado>Cobrada</Estado>
+    </factura>
+    <factura Id="2">
+      <Fecha>2025-10-27T23:44:49</Fecha>
+      <MesaId>1</MesaId>
+      <PuntoVenta>1</PuntoVenta>
+      <TipoCbte>B</TipoCbte>
+      <Numero>2</Numero>
+      <ImporteTotal>999999999</ImporteTotal>
+      <Estado>Cobrada</Estado>
+    </factura>
+  </Facturas>
+  <Cajas />
   <Pagos>
     <pago Id="1">
-      <Fecha>2025-10-27T15:39:20</Fecha>
+      <Fecha>2025-10-27T23:45:53</Fecha>
+      <FacturaId>2</FacturaId>
+      <MesaId>1</MesaId>
+      <Medio>Efectivo</Medio>
+      <Monto>999999999</Monto>
+      <Autorizacion></Autorizacion>
+      <Vuelto>0</Vuelto>
+      <Estado>EnCustodiaMozo</Estado>
+      <Cobrador>admin</Cobrador>
+    </pago>
+    <pago Id="2">
+      <Fecha>2025-10-27T23:45:55</Fecha>
       <FacturaId>1</FacturaId>
       <MesaId>1</MesaId>
       <Medio>Efectivo</Medio>
-      <Monto>1</Monto>
+      <Monto>999999999</Monto>
       <Autorizacion></Autorizacion>
       <Vuelto>0</Vuelto>
       <Estado>EnCustodiaMozo</Estado>
       <Cobrador>admin</Cobrador>
     </pago>
   </Pagos>
-  <Facturas>
-    <factura Id="1">
-      <Fecha>2025-10-27T15:39:00</Fecha>
-      <MesaId>1</MesaId>
-      <PuntoVenta>1</PuntoVenta>
-      <TipoCbte>B</TipoCbte>
-      <Numero>1</Numero>
-      <ImporteTotal>1</ImporteTotal>
-      <Estado>Cobrada</Estado>
-    </factura>
-  </Facturas>
+  <Comandas>
+    <Comanda Id="1" MesaId="2" MozoUsuario="admin" FechaApertura="2025-10-28T18:58:17.2951028-03:00" Estado="Cerrada" FacturaSolicitada="true" Total="1500" FechaCierre="2025-10-29T01:46:45.3933039-03:00">
+      <Items>
+        <Item ItemId="1" ProductoId="1" Descripcion="Agua 500ml" PrecioUnitario="1500" Cantidad="1" Estado="Pendiente" />
+      </Items>
+    </Comanda>
+    <Comanda Id="2" MesaId="3" MozoUsuario="admin" FechaApertura="2025-10-28T18:58:48.1403418-03:00" Estado="Abierta" FacturaSolicitada="false" Total="0">
+      <Items />
+    </Comanda>
+    <Comanda Id="3" MesaId="1" MozoUsuario="admin" FechaApertura="2025-10-29T01:01:30.0157928-03:00" Estado="Abierta" FacturaSolicitada="false" Total="0">
+      <Items />
+    </Comanda>
+  </Comandas>
+  <Productos>
+    <Producto Id="1" Nombre="Agua 500ml" FamiliaId="1" PrecioVenta="1500" Activo="true" />
+  </Productos>
+  <Familias>
+    <Familia Id="1" Nombre="General" Activa="true" />
+  </Familias>
+  <Proveedores />
+  <Proveedor_Familias />
 </Root>

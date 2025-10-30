@@ -43,10 +43,15 @@
   <ItemGroup>
     <Compile Include="MPPBitacora.cs" />
     <Compile Include="MPPCaja.cs" />
+    <Compile Include="MPPComanda.cs" />
     <Compile Include="MPPFactura.cs" />
+    <Compile Include="MPPFamilia.cs" />
     <Compile Include="MPPMesa.cs" />
     <Compile Include="MPPPago.cs" />
     <Compile Include="MPPPermiso.cs" />
+    <Compile Include="MPPProducto.cs" />
+    <Compile Include="MPPProveedor.cs" />
+    <Compile Include="MPPProveedorFamilia.cs" />
     <Compile Include="MPPRendicion.cs" />
     <Compile Include="MPPReserva.cs" />
     <Compile Include="MPPRol.cs" />

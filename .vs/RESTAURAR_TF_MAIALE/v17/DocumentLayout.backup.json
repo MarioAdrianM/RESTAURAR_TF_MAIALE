@@ -7,16 +7,116 @@
       "RelativeMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|solutionrelative:restaurar v1.0\\formplanomesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|c:\\users\\slash\\desktop\\trabajo final\\mi_trabajo_final\\restaurar_tf_maiale\\restaurar_tf_maiale\\restaurar v1.0\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\restaurar v1.0\\formplanomesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|solutionrelative:restaurar v1.0\\formplanomesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD28653-E60C-4625-A366-95AC64FB6361}|BLL_Negocio\\BLL_Negocio.csproj|c:\\users\\slash\\desktop\\trabajo final\\mi_trabajo_final\\restaurar_tf_maiale\\restaurar_tf_maiale\\bll_negocio\\bllcaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD28653-E60C-4625-A366-95AC64FB6361}|BLL_Negocio\\BLL_Negocio.csproj|solutionrelative:bll_negocio\\bllcaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD28653-E60C-4625-A366-95AC64FB6361}|BLL_Negocio\\BLL_Negocio.csproj|c:\\users\\slash\\desktop\\trabajo final\\mi_trabajo_final\\restaurar_tf_maiale\\restaurar_tf_maiale\\bll_negocio\\bllcobranza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD28653-E60C-4625-A366-95AC64FB6361}|BLL_Negocio\\BLL_Negocio.csproj|solutionrelative:bll_negocio\\bllcobranza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD28653-E60C-4625-A366-95AC64FB6361}|BLL_Negocio\\BLL_Negocio.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\bll_negocio\\bllfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD28653-E60C-4625-A366-95AC64FB6361}|BLL_Negocio\\BLL_Negocio.csproj|solutionrelative:bll_negocio\\bllfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD28653-E60C-4625-A366-95AC64FB6361}|BLL_Negocio\\BLL_Negocio.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\bll_negocio\\bllcomanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD28653-E60C-4625-A366-95AC64FB6361}|BLL_Negocio\\BLL_Negocio.csproj|solutionrelative:bll_negocio\\bllcomanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\restaurar v1.0\\frmcobromesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|solutionrelative:restaurar v1.0\\frmcobromesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\restaurar v1.0\\frmcobromesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|solutionrelative:restaurar v1.0\\frmcobromesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7C86F5-F068-4150-993B-ED053BAAF9A4}|BE\\BE.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\be\\befactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7C86F5-F068-4150-993B-ED053BAAF9A4}|BE\\BE.csproj|solutionrelative:be\\befactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A835851B-E452-4133-B6DB-1996FF94047B}|MPP\\MPP.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\mpp\\mppcomanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A835851B-E452-4133-B6DB-1996FF94047B}|MPP\\MPP.csproj|solutionrelative:mpp\\mppcomanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7C86F5-F068-4150-993B-ED053BAAF9A4}|BE\\BE.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\be\\becomanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7C86F5-F068-4150-993B-ED053BAAF9A4}|BE\\BE.csproj|solutionrelative:be\\becomanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7C86F5-F068-4150-993B-ED053BAAF9A4}|BE\\BE.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\be\\beitemcomanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7C86F5-F068-4150-993B-ED053BAAF9A4}|BE\\BE.csproj|solutionrelative:be\\beitemcomanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7C86F5-F068-4150-993B-ED053BAAF9A4}|BE\\BE.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\be\\estadositemcomanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7C86F5-F068-4150-993B-ED053BAAF9A4}|BE\\BE.csproj|solutionrelative:be\\estadositemcomanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7C86F5-F068-4150-993B-ED053BAAF9A4}|BE\\BE.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\be\\estadoscomanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7C86F5-F068-4150-993B-ED053BAAF9A4}|BE\\BE.csproj|solutionrelative:be\\estadoscomanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD28653-E60C-4625-A366-95AC64FB6361}|BLL_Negocio\\BLL_Negocio.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\bll_negocio\\bllproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD28653-E60C-4625-A366-95AC64FB6361}|BLL_Negocio\\BLL_Negocio.csproj|solutionrelative:bll_negocio\\bllproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD28653-E60C-4625-A366-95AC64FB6361}|BLL_Negocio\\BLL_Negocio.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\bll_negocio\\bllproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD28653-E60C-4625-A366-95AC64FB6361}|BLL_Negocio\\BLL_Negocio.csproj|solutionrelative:bll_negocio\\bllproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD28653-E60C-4625-A366-95AC64FB6361}|BLL_Negocio\\BLL_Negocio.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\bll_negocio\\bllfamilia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD28653-E60C-4625-A366-95AC64FB6361}|BLL_Negocio\\BLL_Negocio.csproj|solutionrelative:bll_negocio\\bllfamilia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A835851B-E452-4133-B6DB-1996FF94047B}|MPP\\MPP.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\mpp\\mppproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A835851B-E452-4133-B6DB-1996FF94047B}|MPP\\MPP.csproj|solutionrelative:mpp\\mppproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A835851B-E452-4133-B6DB-1996FF94047B}|MPP\\MPP.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\mpp\\mppproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A835851B-E452-4133-B6DB-1996FF94047B}|MPP\\MPP.csproj|solutionrelative:mpp\\mppproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A835851B-E452-4133-B6DB-1996FF94047B}|MPP\\MPP.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\mpp\\mppfamilia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A835851B-E452-4133-B6DB-1996FF94047B}|MPP\\MPP.csproj|solutionrelative:mpp\\mppfamilia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\restaurar v1.0\\bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|solutionrelative:restaurar v1.0\\bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A835851B-E452-4133-B6DB-1996FF94047B}|MPP\\MPP.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\mpp\\mppproveedorfamilia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A835851B-E452-4133-B6DB-1996FF94047B}|MPP\\MPP.csproj|solutionrelative:mpp\\mppproveedorfamilia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7C86F5-F068-4150-993B-ED053BAAF9A4}|BE\\BE.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\be\\beproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7C86F5-F068-4150-993B-ED053BAAF9A4}|BE\\BE.csproj|solutionrelative:be\\beproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7C86F5-F068-4150-993B-ED053BAAF9A4}|BE\\BE.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\be\\beproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7C86F5-F068-4150-993B-ED053BAAF9A4}|BE\\BE.csproj|solutionrelative:be\\beproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7C86F5-F068-4150-993B-ED053BAAF9A4}|BE\\BE.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\be\\befamilia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7C86F5-F068-4150-993B-ED053BAAF9A4}|BE\\BE.csproj|solutionrelative:be\\befamilia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\restaurar v1.0\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|solutionrelative:restaurar v1.0\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|c:\\users\\slash\\desktop\\trabajo final\\mi_trabajo_final\\restaurar_tf_maiale\\restaurar_tf_maiale\\restaurar v1.0\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|solutionrelative:restaurar v1.0\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\restaurar v1.0\\frmreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|solutionrelative:restaurar v1.0\\frmreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|c:\\users\\slash\\desktop\\trabajo final\\mi_trabajo_final\\restaurar_tf_maiale\\restaurar_tf_maiale\\restaurar v1.0\\formplanomesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|solutionrelative:restaurar v1.0\\formplanomesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\restaurar v1.0\\frmreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|solutionrelative:restaurar v1.0\\frmreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\restaurar v1.0\\frmfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{900EAFD6-BBFC-4ACF-A286-875C3C996D58}|Restaurar v1.0\\Restaurar v1.0.csproj|solutionrelative:restaurar v1.0\\frmfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,31 +126,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FormMenu.cs",
-              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormMenu.cs",
-              "RelativeDocumentMoniker": "Restaurar v1.0\\FormMenu.cs",
-              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormMenu.cs",
-              "RelativeToolTip": "Restaurar v1.0\\FormMenu.cs",
-              "ViewState": "AgIAAAoBAAAAAAAAAAAgwBUBAAAtAAAAAAAAAA==",
+              "Title": "BLLCaja.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BLL_Negocio\\BLLCaja.cs",
+              "RelativeDocumentMoniker": "BLL_Negocio\\BLLCaja.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BLL_Negocio\\BLLCaja.cs",
+              "RelativeToolTip": "BLL_Negocio\\BLLCaja.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwDUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T18:30:42.858Z",
+              "WhenOpened": "2025-10-29T04:35:13.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BLLCobranza.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BLL_Negocio\\BLLCobranza.cs",
+              "RelativeDocumentMoniker": "BLL_Negocio\\BLLCobranza.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BLL_Negocio\\BLLCobranza.cs",
+              "RelativeToolTip": "BLL_Negocio\\BLLCobranza.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAowE4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T04:18:38.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BLLComanda.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BLL_Negocio\\BLLComanda.cs",
+              "RelativeDocumentMoniker": "BLL_Negocio\\BLLComanda.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BLL_Negocio\\BLLComanda.cs",
+              "RelativeToolTip": "BLL_Negocio\\BLLComanda.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAwHwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T20:55:08.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormMenu.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormMenu.cs",
-              "RelativeDocumentMoniker": "Restaurar v1.0\\FormMenu.cs",
-              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormMenu.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Restaurar v1.0\\FormMenu.cs [Dise\u00F1o]",
+              "Title": "FormPlanoMesas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormPlanoMesas.cs",
+              "RelativeDocumentMoniker": "Restaurar v1.0\\FormPlanoMesas.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormPlanoMesas.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Restaurar v1.0\\FormPlanoMesas.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T18:30:24.108Z",
+              "WhenOpened": "2025-10-28T00:24:04.735Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
@@ -59,24 +185,297 @@
               "Title": "FormPlanoMesas.cs",
               "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormPlanoMesas.cs",
               "RelativeDocumentMoniker": "Restaurar v1.0\\FormPlanoMesas.cs",
-              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormPlanoMesas.cs",
-              "RelativeToolTip": "Restaurar v1.0\\FormPlanoMesas.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAwwGUAAAARAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormPlanoMesas.cs*",
+              "RelativeToolTip": "Restaurar v1.0\\FormPlanoMesas.cs*",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAtwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T18:27:15.234Z",
+              "WhenOpened": "2025-10-28T00:27:19.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormPlanoMesas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormPlanoMesas.cs",
-              "RelativeDocumentMoniker": "Restaurar v1.0\\FormPlanoMesas.cs",
-              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormPlanoMesas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Restaurar v1.0\\FormPlanoMesas.cs [Dise\u00F1o]",
+              "DocumentIndex": 9,
+              "Title": "MPPComanda.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\MPP\\MPPComanda.cs",
+              "RelativeDocumentMoniker": "MPP\\MPPComanda.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\MPP\\MPPComanda.cs",
+              "RelativeToolTip": "MPP\\MPPComanda.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAiwBcBAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T18:24:34.914Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-28T20:54:20.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BLLFactura.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BLL_Negocio\\BLLFactura.cs",
+              "RelativeDocumentMoniker": "BLL_Negocio\\BLLFactura.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BLL_Negocio\\BLLFactura.cs",
+              "RelativeToolTip": "BLL_Negocio\\BLLFactura.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwCkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T22:22:34.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmCobroMesa.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FrmCobroMesa.cs",
+              "RelativeDocumentMoniker": "Restaurar v1.0\\FrmCobroMesa.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FrmCobroMesa.cs",
+              "RelativeToolTip": "Restaurar v1.0\\FrmCobroMesa.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAxwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T03:54:02.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmCobroMesa.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FrmCobroMesa.cs",
+              "RelativeDocumentMoniker": "Restaurar v1.0\\FrmCobroMesa.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FrmCobroMesa.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Restaurar v1.0\\FrmCobroMesa.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T03:53:59.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BEFactura.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BE\\BEFactura.cs",
+              "RelativeDocumentMoniker": "BE\\BEFactura.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BE\\BEFactura.cs",
+              "RelativeToolTip": "BE\\BEFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:16:29.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BEComanda.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BE\\BEComanda.cs",
+              "RelativeDocumentMoniker": "BE\\BEComanda.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BE\\BEComanda.cs",
+              "RelativeToolTip": "BE\\BEComanda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T20:53:46.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BEItemComanda.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BE\\BEItemComanda.cs",
+              "RelativeDocumentMoniker": "BE\\BEItemComanda.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BE\\BEItemComanda.cs",
+              "RelativeToolTip": "BE\\BEItemComanda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T20:52:41.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EstadosItemComanda.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BE\\EstadosItemComanda.cs",
+              "RelativeDocumentMoniker": "BE\\EstadosItemComanda.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BE\\EstadosItemComanda.cs",
+              "RelativeToolTip": "BE\\EstadosItemComanda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T20:52:06.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EstadosComanda.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BE\\EstadosComanda.cs",
+              "RelativeDocumentMoniker": "BE\\EstadosComanda.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BE\\EstadosComanda.cs",
+              "RelativeToolTip": "BE\\EstadosComanda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T20:51:38.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MPPFamilia.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\MPP\\MPPFamilia.cs",
+              "RelativeDocumentMoniker": "MPP\\MPPFamilia.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\MPP\\MPPFamilia.cs",
+              "RelativeToolTip": "MPP\\MPPFamilia.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAiwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T01:55:47.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MPPProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\MPP\\MPPProveedor.cs",
+              "RelativeDocumentMoniker": "MPP\\MPPProveedor.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\MPP\\MPPProveedor.cs",
+              "RelativeToolTip": "MPP\\MPPProveedor.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAiwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T01:57:07.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MPPProducto.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\MPP\\MPPProducto.cs",
+              "RelativeDocumentMoniker": "MPP\\MPPProducto.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\MPP\\MPPProducto.cs",
+              "RelativeToolTip": "MPP\\MPPProducto.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAiwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T01:57:38.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BLLFamilia.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BLL_Negocio\\BLLFamilia.cs",
+              "RelativeDocumentMoniker": "BLL_Negocio\\BLLFamilia.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BLL_Negocio\\BLLFamilia.cs",
+              "RelativeToolTip": "BLL_Negocio\\BLLFamilia.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T01:58:39.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BLLProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BLL_Negocio\\BLLProveedor.cs",
+              "RelativeDocumentMoniker": "BLL_Negocio\\BLLProveedor.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BLL_Negocio\\BLLProveedor.cs",
+              "RelativeToolTip": "BLL_Negocio\\BLLProveedor.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T01:59:06.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BLLProducto.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BLL_Negocio\\BLLProducto.cs",
+              "RelativeDocumentMoniker": "BLL_Negocio\\BLLProducto.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BLL_Negocio\\BLLProducto.cs",
+              "RelativeToolTip": "BLL_Negocio\\BLLProducto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T01:59:31.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Bootstrap.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\Bootstrap.cs",
+              "RelativeDocumentMoniker": "Restaurar v1.0\\Bootstrap.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\Bootstrap.cs",
+              "RelativeToolTip": "Restaurar v1.0\\Bootstrap.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:00:26.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MPPProveedorFamilia.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\MPP\\MPPProveedorFamilia.cs",
+              "RelativeDocumentMoniker": "MPP\\MPPProveedorFamilia.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\MPP\\MPPProveedorFamilia.cs",
+              "RelativeToolTip": "MPP\\MPPProveedorFamilia.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T01:58:08.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormMenu.cs",
+              "RelativeDocumentMoniker": "Restaurar v1.0\\FormMenu.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FormMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Restaurar v1.0\\FormMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T01:48:15.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BEProducto.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BE\\BEProducto.cs",
+              "RelativeDocumentMoniker": "BE\\BEProducto.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BE\\BEProducto.cs",
+              "RelativeToolTip": "BE\\BEProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T01:47:40.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BEProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BE\\BEProveedor.cs",
+              "RelativeDocumentMoniker": "BE\\BEProveedor.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BE\\BEProveedor.cs",
+              "RelativeToolTip": "BE\\BEProveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T01:47:02.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BEFamilia.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BE\\BEFamilia.cs",
+              "RelativeDocumentMoniker": "BE\\BEFamilia.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\BE\\BEFamilia.cs",
+              "RelativeToolTip": "BE\\BEFamilia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T01:46:34.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmReservas.cs",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FrmReservas.cs",
+              "RelativeDocumentMoniker": "Restaurar v1.0\\FrmReservas.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FrmReservas.cs",
+              "RelativeToolTip": "Restaurar v1.0\\FrmReservas.cs",
+              "ViewState": "AgIAACgCAAAAAAAAAAAAACwCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T00:37:26.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmReservas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FrmReservas.cs",
+              "RelativeDocumentMoniker": "Restaurar v1.0\\FrmReservas.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FrmReservas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Restaurar v1.0\\FrmReservas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T00:37:24.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmFactura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FrmFactura.cs",
+              "RelativeDocumentMoniker": "Restaurar v1.0\\FrmFactura.cs",
+              "ToolTip": "C:\\Users\\SLASH\\Desktop\\TRABAJO FINAL\\MI_TRABAJO_FINAL\\RESTAURAR_TF_MAIALE\\RESTAURAR_TF_MAIALE\\Restaurar v1.0\\FrmFactura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Restaurar v1.0\\FrmFactura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T00:36:08.437Z"
             }
           ]
         }

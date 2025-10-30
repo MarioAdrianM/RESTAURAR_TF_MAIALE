@@ -42,18 +42,25 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BECaja.cs" />
+    <Compile Include="BEComanda.cs" />
     <Compile Include="BEComposite\BEComposite.cs" />
     <Compile Include="BEComposite\BEPermiso.cs" />
     <Compile Include="BEComposite\BERol.cs" />
     <Compile Include="BEEntidad.cs" />
     <Compile Include="BEFactura.cs" />
+    <Compile Include="BEFamilia.cs" />
+    <Compile Include="BEItemComanda.cs" />
     <Compile Include="BEMesa.cs" />
     <Compile Include="BEPago.cs" />
+    <Compile Include="BEProducto.cs" />
+    <Compile Include="BEProveedor.cs" />
     <Compile Include="BERendicion.cs" />
     <Compile Include="BEReserva.cs" />
     <Compile Include="BESector.cs" />
     <Compile Include="BEUsuario.cs" />
     <Compile Include="BEBitacora.cs" />
+    <Compile Include="EstadosComanda.cs" />
+    <Compile Include="EstadosItemComanda.cs" />
     <Compile Include="EstadosMesa.cs" />
     <Compile Include="EstadosReserva.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -11,6 +11,8 @@ namespace Restaurar_v1._0
     {
         private readonly BLLCobranza _bll = new BLLCobranza();
         private BEFactura _facturaActual; // cache de la factura encontrada
+        public long? MesaIdPrefijada { get; set; }
+
         public FrmCobroMesa()
         {
             InitializeComponent();
@@ -122,6 +124,16 @@ namespace Restaurar_v1._0
         private void FrmCobroMesa_Load(object sender, EventArgs e)
         {
             CargarMesasPendientes();
+            try
+            {
+                if (MesaIdPrefijada.HasValue && MesaIdPrefijada.Value > 0)
+                {
+                    nudMesaId.Value = MesaIdPrefijada.Value;  // ← pre-carga la mesa
+                    btnBuscar.PerformClick();                 // ← ejecuta la búsqueda automáticamente
+                }
+            }
+            catch { /* no romper si el control aún no está listo */ }
+
         }
 
         private void btnRefrescarMesas_Click(object sender, EventArgs e)
